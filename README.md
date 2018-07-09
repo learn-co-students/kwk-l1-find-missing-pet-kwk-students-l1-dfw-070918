@@ -20,6 +20,8 @@ As a refresher, here's a list of commands to help you with this task:
 
 Remember, it's always helpful to know where you are in your directory tree in relation to where you want to go. Keep that in mind as you write out your command-line paths!
 
+
+
 ### Get working!
 
 Click the "Open" button to start this lab. In your IDE terminal, run `bundle` to make sure the lab is setup.
@@ -34,6 +36,7 @@ Use the commands we've learned to move the animals to their right places. When e
 Notice that the `painting-elephants.jpg` image is located in `(lab root) > cats > indoor > back-alley`. But really, the painting elephant should go inside of `(lab root) > elephants > painters`. 
 
 We can move this elephant image by entering in terminal from the main directory of this project...
+
 
 ```bash
 cd cats
